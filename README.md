@@ -28,6 +28,6 @@ docker run -p 3000:3000 -v folder-path-for-outputs:/app/output mnist-cgan
 ## Results
 Generated images are stored in ```folder-path-for-ouputs``` with each class in the folder named as per their labels. Generation of numbers' images,<br/>
 
-<img src="docs/cgan.png" width="800" class="center"/>
+<img src="docs/cgan.jpg" width="800" class="center"/>
 
 
